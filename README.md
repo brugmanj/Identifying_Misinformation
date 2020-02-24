@@ -22,7 +22,7 @@ ___
 - [Introduction](#Introduction)
 - [Problem Statement](#Problem-Statement)
 - [Data Cleaning/Feature Cleaning](#Data-CleaningFeature-Cleaning)
-- [Modeling](#modeling:)
+- [Modeling](#Modeling)
 - [Application Development](#Application-Development)
 - [Takeaways](#Takeaways)
 - [Next Steps](#Next-Steps)
