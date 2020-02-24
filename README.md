@@ -2,7 +2,7 @@
 
 ___
 
-## Introduction :  
+## Introduction:  
 
 
 
@@ -12,7 +12,7 @@ While reasonable discourse is natural when it comes to democratic societies, hav
 
 ___
 
-## Problem Statement :
+## Problem Statement:
 
 ***How can Emergency Management Agencies identify incorrect information before, during and after disasters?***
 
@@ -22,7 +22,7 @@ ___
 - [Introduction](#Introduction)
 - [Problem Statement](#Problem-Statement)
 - [Data Cleaning/Feature Cleaning](#Data-CleaningFeature-Cleaning)
-- [Modeling](#Modeling)
+- [Modeling](#modeling:)
 - [Application Development](#Application-Development)
 - [Takeaways](#Takeaways)
 - [Next Steps](#Next-Steps)
@@ -44,7 +44,7 @@ Next we used the TFIDF Vectorizer on the same data, with parameters of ngram_ran
 
 ___
 
-## Modeling :  
+## Modeling:  
 
 All of our models final scores were computed in the following order: 
 - **Best score without tuning**
