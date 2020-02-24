@@ -21,7 +21,7 @@ ___
 ## Contents:
 - [Introduction](#Introduction)
 - [Problem Statement](#Problem-Statement)
-- [Data Cleaning/Feature Cleaning](#Data-Cleaning/Feature-Cleaning)
+- [Data Cleaning/Feature Cleaning](#Data-CleaningFeature-Cleaning)
 - [Modeling](#Modeling)
 - [Application Development](#Application-Development)
 - [Takeaways](#Takeaways)
